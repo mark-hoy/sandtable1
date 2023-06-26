@@ -20,10 +20,10 @@ WebUI version: 2.1b72
 
 Another great thing about FluidNC and the ESP32 controller is that it can be used over WiFi with a simple web browser.
 
-Basic use:
--turn on the machine, bring up the Web GUI and home the machine
--optionally load up a new image to the SD card via the Web GUI
--use the Web GUI to draw an image
+Basic use:  
+-turn on the machine, bring up the Web GUI and home the machine  
+-optionally load up a new image to the SD card via the Web GUI  
+-use the Web GUI to draw an image  
 
 For the colored LEDs, I used an Arduino I had laying around running a repetative pattern that works well enough. A future upgrade could replace this with a WiFi based board. 
 
