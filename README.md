@@ -29,6 +29,8 @@ For the colored LEDs, I used an Arduino I had laying around running a repetative
 
 This is all built into a 2'x2'x2' coffee table that I found on Craigslist for $25
 
+![](images/sandtable-final.jpg)
+
 ![Sample Image](images/star-image.jpg)
 
 ![](images/plastic-printed.jpg)
